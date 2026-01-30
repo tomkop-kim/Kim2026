@@ -39,3 +39,6 @@ All figures were produced using custom R scripts provided in this repository.
 # Notes
 
 - Sample names, conditions, and file paths are anonymized.
+
+# Contact
+Taehyeon Kim: thkiomuos@uos.ac.kr, thkimuos@gmail.com
